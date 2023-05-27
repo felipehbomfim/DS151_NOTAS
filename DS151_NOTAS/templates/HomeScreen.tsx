@@ -51,7 +51,7 @@ function HomeScreen() {
 
             <TouchableOpacity
                 style={styles.button}
-                onPress={() => navigation.navigate('Calculo de Medias')}
+                onPress={() => navigation.navigate('Calculo de Médias')}
             >
                 <Text style={styles.buttonText}>IR PARA CALCULO DE MEDIAS!</Text>
             </TouchableOpacity>
